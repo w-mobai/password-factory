@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { RefreshCw, Moon, Sun } from 'lucide-react';
 import PasswordDisplay from './components/PasswordDisplay';
 import StrengthMeter from './components/StrengthMeter';
